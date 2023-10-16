@@ -9,10 +9,10 @@ A chrome extension that allows you to view chatgpt answers alongside you search 
 4. Called chatgpt api
 
 ## Steps to build 
-Clone the repo
-Install dependencies with npm
-Execute npm run build 
-Load the build directory to your browser
+1. Clone the repo
+2. Install dependencies with npm
+3. Execute npm run build 
+4. Load the build directory to your browser
 
 ## Credits 
 This project is a fork of wong2 chatgpt-extension https://github.com/wong2/chatgpt-google-extension.
